@@ -1,0 +1,172 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap');
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 50px;
+  height: 100vh;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: linear-gradient(to right, #008d92, #1f4d39);
+}
+
+.btnClass {
+  text-align: center;
+  padding: 5%;
+  outline: none;
+}
+
+.openContent {
+  border-width: 0;
+  border-radius: 0px;
+}
+
+ul {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 90%;
+  margin: auto;
+}
+li {
+  list-style-type: none;
+  margin-bottom: 55px;
+  text-align: center;
+}
+.grad1 {
+  text-transform: uppercase;
+  background: linear-gradient(to right, #fbd3e9 0%, #bb377d 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.grad2 {
+  text-transform: uppercase;
+  background: linear-gradient(to right, #00d2ff 0%, #3a7bd5 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.grad3 {
+  text-transform: uppercase;
+  background: linear-gradient(to right, #f2709c 0%, #ff9472 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.grad4 {
+  text-transform: uppercase;
+  background: linear-gradient(to right, #50c9c3 0%, #96deda 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.grad5 {
+  text-transform: uppercase;
+  background: linear-gradient(to right, #f857a6 0%, #ff5858 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.grad6 {
+  text-transform: uppercase;
+  background: linear-gradient(to right, #4b6cb7 0%, #182848 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.grad7 {
+  text-transform: uppercase;
+  background: linear-gradient(to right, #e43a15 0%, #e65245 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.grad8 {
+  text-transform: uppercase;
+  background: linear-gradient(to right, #ed4264 0%, #ffedbc 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.grad9 {
+  text-transform: uppercase;
+  background: linear-gradient(to right, #24dc9c 0%, #ff0000 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.grad10 {
+  text-transform: uppercase;
+  background: linear-gradient(to right, #24c6dc 0%, #514a9d 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.grad11 {
+  text-transform: uppercase;
+  background: linear-gradient(to right, #00e5ff 0%, #07a8ff 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.grad12 {
+  text-transform: uppercase;
+  background: linear-gradient(to right, #4776e6 0%, #8e54e9 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.grad13 {
+  text-transform: uppercase;
+  background: linear-gradient(to right, #ff8008 0%, #ffc837 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.grad14 {
+  text-transform: uppercase;
+  background: linear-gradient(to right, #eb3349 0%, #f45c43 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.grad15 {
+  text-transform: uppercase;
+  background: linear-gradient(to right, #4cb8c4 0%, #3cd3ad 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.grad16 {
+  text-transform: uppercase;
+  background: linear-gradient(to right, #ff512f 0%, #f09819 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.grad17 {
+  text-transform: uppercase;
+  background: linear-gradient(to right, #73ff00 0%, #01c4ff 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.grad18 {
+  text-transform: uppercase;
+  background: linear-gradient(to right, #ff512f 0%, #dd2476 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.grad19 {
+  text-transform: uppercase;
+  background: linear-gradient(to right, #02ff35 0%, #33ee42 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.grad20 {
+  text-transform: uppercase;
+  background: linear-gradient(to right, #02aab0 0%, #00cdac 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.grad21 {
+  text-transform: uppercase;
+  background: linear-gradient(to right, #d31027 0%, #ea384d 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.no {
+  padding-bottom: 6%;
+}
